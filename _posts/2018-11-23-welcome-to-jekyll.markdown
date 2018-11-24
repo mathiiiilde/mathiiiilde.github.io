@@ -1,25 +1,31 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Healthy pear and chocolate cake"
 date:   2018-11-23 22:48:30 +0100
-categories: jekyll update
+categories: chocolate healthy-cake fruit dessert
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+1. The dry ingredients
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Combine   
+* 1.5 cups of flour
+* 0.5 tsp baking powder
+* (0.5 tsp baking soda - optional)
+* 0.4 cups sugar
+* 0.25 cups cocoa powder
+* 1 bag vanilla sugar
+* (a dash of cinnamon - optional)
 
-Jekyll also offers powerful support for code snippets:
+Mix well and reserve
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+2. The wet ingredients
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Dice 150g of raw cauliflower and cook 3mn in the microwave at full power.
+Blend this pre-cooked cauliflower with a cup of plant-based milk (alternatively, water, but then increase a bit the amount of sugar) until smooth.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+3. Pour wet into dry and mix well
+
+4. Preheat the oven at 200 C.
+
+5. Dice a pear and add to the cake mix.
+
+6. Place in the oven and lower the temperature to 180 C. Cook for 40mn.
